@@ -1,0 +1,11 @@
+name: KerasTF
+channels:
+  - Microsoft
+  - conda-forge
+dependencies:
+  - python=3.10
+  - jupyter
+  - keras
+  - tensorflow
+  - pandas
+prefix: /opt/homebrew/Caskroom/miniconda/base/envs/KerasTF
